@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundPrimary">#FFFFFF</color>
+    <color name="backgroundSecondary">#3383BA</color>
+    <color name="borderColor">#FFFFFF</color>
+    <color name="colorPrimary">#509ACE</color>
+    <color name="colorPrimaryDark">#3383BA</color>
+    <color name="colorAccent">#3383BA</color>
+    <color name="colorButtonNormal">#3383BA</color>
+    <color name="colorControlNormal">#509ACE</color>
+    <color name="colorControlActivated">#509ACE</color>
+    <color name="colorControlHighlight">#509ACE</color>
+    <color name="textColorPrimary">#509ACE</color>
+    <color name="textColorSecondary">#FFFFFF</color>
+    <color name="textColorHint">#509ACE</color>
+    <color name="textColorHintGray">#808080</color>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Laporin</string>
+
+    <string name="action_report">Lapor Penipu</string>
+
+    <string name="hint_name">Nama pelapor</string>
+    <string name="hint_phone">Nomor telpon pelapor</string>
+    <string name="hint_email">Email pelapor</string>
+
+    <string name="hint_con_name">Nama penipu</string>
+    <string name="hint_con_contact">Kontak penipu</string>
+    <string name="hint_con_email">Email penipu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="penipu_array">
+        <item>Budi Setiawan</item>
+        <item>Prabowo</item>
+        <item>Bambang Subianto</item>
+        <item>Danang Handoko</item>
+        <item>Budi Sudarsono</item>
+        <item>Susi Daryati</item>
+        <item>Ratna Julia</item>
+        <item>Lukas Ginting</item>
+        <item>Atika Prima</item>
+        <item>Indah Putri</item>
+    </string-array>
+</resources>
